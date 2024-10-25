@@ -1,0 +1,989 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.a{
+    height: 1179px;
+    width: 1179px;
+    background: #45372E;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.b{
+    height: 1104px;
+    width: 7.5px;
+    background: #FFE57A;
+    position: absolute;
+    top:37.5px ;
+    left: 37.5px;
+}
+
+.c{
+    height: 1104px;
+    width: 7.5px;
+    background: #FFE57A;
+    position: absolute;
+    top:37.5px ;
+    right: 37.5px;
+}
+
+.d{
+    height: 7.5px;
+    width: 1104px;
+    background: #FFE57A;
+    position: absolute;
+    top:37.5px ;
+    left: 37.5px;
+}
+
+.e{
+    height: 7.5px;
+    width: 1104px;
+    background: #FFE57A;
+    position: absolute;
+    bottom:37.5px ;
+    left: 37.5px;
+}
+
+.f{
+    height: 1048px;
+    width: 12px;
+    background: #FFE57A;
+    position: absolute;
+    top: 65.5px ;
+    left:65.5px;
+}
+
+.g{
+    height: 1048px;
+    width: 12px;
+    background: #FFE57A;
+    position: absolute;
+    top: 65.5px ;
+    right:65.5px;
+}
+
+.h{
+    height: 12px;
+    width: 1048px;
+    background: #FFE57A;
+    position: absolute;
+    top: 65.5px ;
+    left:65.5px;
+}
+
+.i{
+    height: 12px;
+    width: 1048px;
+    background: #FFE57A;
+    position: absolute;
+    bottom: 65.5px ;
+    left:65.5px;
+}
+
+.j{
+    height: 1024px;
+    width: 5px;
+    background: #FFE57A;
+    position: absolute;
+    top: 77.5px;
+    left: 200.5px;
+}
+
+.k{
+    height: 1024px;
+    width: 5px;
+    background: #FFE57A;
+    position: absolute;
+    top: 77.5px;
+    left: 328.5px;
+}
+
+.l{
+    height: 1024px;
+    width: 5px;
+    background: #FFE57A;
+    position: absolute;
+    top: 77.5px;
+    left: 456.5px;
+}
+
+.m{
+    height: 1024px;
+    width: 5px;
+    background: #FFE57A;
+    position: absolute;
+    top: 77.5px;
+    left: 584.5px;
+}
+
+.n{
+    height: 1024px;
+    width: 5px;
+    background: #FFE57A;
+    position: absolute;
+    top: 77.5px;
+    left: 712.5px;
+}
+
+.o{
+    height: 1024px;
+    width: 5px;
+    background: #FFE57A;
+    position: absolute;
+    top: 77.5px;
+    left: 840.5px;
+}
+
+.p{
+    height: 1024px;
+    width: 5px;
+    background: #FFE57A;
+    position: absolute;
+    top: 77.5px;
+    left: 968.5px;
+}
+
+.q{
+    height: 5px;
+    width: 1024px;
+    background: #FFE57A;
+    position: absolute;
+    top: 200.5px;
+    left: 77.5px;
+}
+
+.r{
+    height: 5px;
+    width: 1024px;
+    background: #FFE57A;
+    position: absolute;
+    top: 328.5px;
+    left: 77.5px;
+}
+
+.s{
+    height: 5px;
+    width: 1024px;
+    background: #FFE57A;
+    position: absolute;
+    top: 456.5px;
+    left: 77.5px;
+}
+
+.t{
+    height: 5px;
+    width: 1024px;
+    background: #FFE57A;
+    position: absolute;
+    top: 584.5px;
+    left: 77.5px;
+}
+
+.u{
+    height: 5px;
+    width: 1024px;
+    background: #FFE57A;
+    position: absolute;
+    top: 712.5px;
+    left: 77.5px;
+}
+
+.v{
+    height: 5px;
+    width: 1024px;
+    background: #FFE57A;
+    position: absolute;
+    top: 840.5px;
+    left: 77.5px;
+}
+
+.w{
+    height: 5px;
+    width: 1024px;
+    background: #FFE57A;
+    position: absolute;
+    top: 968.5px;
+    left: 77.5px;
+}
+
+.kotone{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 77.5px;
+    left: 77.5px;
+
+    
+}
+
+.kottwo{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 77.5px;
+    left: 333.5px;
+}
+
+.kotthree{
+    height: 123px;
+    width: 124px;
+    background:#F5B376;
+    position: absolute;
+    top: 77.5px;
+    left: 588.5px;
+}
+
+.kotfour{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 77.5px;
+    left: 845.5px;
+}
+
+.kotfive{
+    height: 123px;
+    width: 124px;
+    background:#F5B376;
+    position: absolute;
+    top: 205.5px;
+    left: 204.5px;
+}
+
+.kotsix{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 205.5px;
+    left: 461.5px;
+}
+
+.kotseven{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 205.5px;
+    left: 717.5px;
+}
+
+.koteight{
+    height: 123px;
+    width: 129px;
+    background:#F5B376;
+    position: absolute;
+    top: 205.5px;
+    left: 972.5px;
+}
+
+.kotnine{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 333.5px;
+    left: 77.5px;
+}
+
+.kotten{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 333.5px;
+    left: 333.5px;
+}
+
+.koteleven{
+    height: 123px;
+    width: 124px;
+    background:#F5B376;
+    position: absolute;
+    top: 333.5px;
+    left: 588.5px;
+}
+
+.kottwelf{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 333.5px;
+    left: 845.5px;
+}
+
+.kotthirten{
+    height: 123px;
+    width: 124px;
+    background:#F5B376;
+    position: absolute;
+    top: 461.5px;
+    left: 204.5px;
+}
+
+.kotfourten{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 461.5px;
+    left: 461.5px;
+}
+
+.kotfivten{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 461.5px;
+    left: 717.5px;
+}
+
+.kotsixten{
+    height: 123px;
+    width: 129px;
+    background:#F5B376;
+    position: absolute;
+    top: 461.5px;
+    left: 972.5px;
+}
+
+.kotseventen{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 589.5px;
+    left: 77.5px;
+}
+
+.koteighten{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 589.5px;
+    left: 333.5px;
+}
+
+.kotnineten{
+    height: 123px;
+    width: 124px;
+    background:#F5B376;
+    position: absolute;
+    top: 589.5px;
+    left: 588.5px;
+}
+
+.kottwenty{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 589.5px;
+    left: 845.5px;
+}
+
+.kotakus{
+    height: 123px;
+    width: 124px;
+    background:#F5B376;
+    position: absolute;
+    top: 717.5px;
+    left: 204.5px;
+}
+
+.kotbais{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 717.5px;
+    left: 461.5px;
+}
+
+.kotteais{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 717.5px;
+    left: 717.5px;
+}
+
+.kotcobbis{
+    height: 123px;
+    width: 129px;
+    background:#F5B376;
+    position: absolute;
+    top: 717.5px;
+    left: 972.5px;
+}
+
+.kotposis{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 845.5px;
+    left: 77.5px;
+}
+
+.kotchabbis{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 845.5px;
+    left: 333.5px;
+}
+
+.kotsatas{
+    height: 123px;
+    width: 124px;
+    background:#F5B376;
+    position: absolute;
+    top: 845.5px;
+    left: 588.5px;
+}
+
+.kotatas{
+    height: 123px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 845.5px;
+    left: 845.5px;
+}
+
+.kotonu{
+    height: 128px;
+    width: 124px;
+    background:#F5B376;
+    position: absolute;
+    top: 973.5px;
+    left: 204.5px;
+}
+
+.kottris{
+    height: 128px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 973.5px;
+    left: 461.5px;
+}
+
+.kotaktris{
+    height: 128px;
+    width: 123px;
+    background:#F5B376;
+    position: absolute;
+    top: 973.5px;
+    left: 717.5px;
+}
+
+.kotbottris{
+    height: 128px;
+    width: 129px;
+    background:#F5B376;
+    position: absolute;
+    top: 973.5px;
+    left: 972.5px;
+}
+
+.ak{
+    top: 125px;
+    left: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.dui{
+    top: 250px;
+    left: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.tin{
+    top: 375px;
+    left: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.char{
+    top: 500px;
+    left: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.pach{
+    top: 625px;
+    left: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.choy{
+    top: 760px;
+    left: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.sat{
+    top: 885px;
+    left: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.att{
+    top: 1015px;
+    left: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.aa{
+    bottom: 125px;
+    right: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.bb{
+    bottom: 250px;
+    right: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.cc{
+    bottom: 375px;
+    right: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.dd{
+    bottom: 500px;
+    right: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.ee{
+    bottom: 625px;
+    right: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.ff{
+    bottom: 760px;
+    right: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.gg{
+    bottom: 885px;
+    right: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.hh{
+    bottom: 1015px;
+    right: 47px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 30px;
+}
+
+.ii{
+    left: 125px;
+    top: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.jj{
+    left: 250px;
+    top: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.kk{
+    left: 375px;
+    top: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.ll{
+    left: 500px;
+    top: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.mm{
+    left: 625px;
+    top: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.nn{
+    left: 760px;
+    top: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.oo{
+    left: 885px;
+    top: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.pp{
+    left: 1015px;
+    top: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.qq{
+    right: 125px;
+    bottom: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.rr{
+    right: 250px;
+    bottom: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.ss{
+    right: 375px;
+    bottom: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.tt{
+    right: 500px;
+    bottom: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.uu{
+    right: 625px;
+    bottom: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.vv{
+    right: 760px;
+    bottom: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.ww{
+    right: 885px;
+    bottom: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.xx{
+    right: 1015px;
+    bottom: 40px;
+    position: absolute;
+    color:#FFE57A; 
+    font-size: 25px;
+}
+
+.nowka{
+    position: absolute;
+    bottom: -35px;
+    left: 0px;
+    font-size: 130px;
+}
+
+.hati{
+    position: absolute;
+    bottom: -25px;
+    left: 0px;
+    font-size: 120px;
+}
+
+.king{
+    position: absolute;
+    bottom: -35px;
+    left: 0px;
+    font-size: 130px;
+}
+
+.ghora{
+    position: absolute;
+    bottom: -35px;
+    left: 0px;
+    font-size: 130px;
+}
+
+.ghoraa{
+    position: absolute;
+    top: 60px;
+    left: 190px;
+    font-size: 130px;
+}
+
+.minister{
+    position: absolute;
+    top: 60px;
+    left: 460px;
+    font-size: 130px;
+}
+
+.hatii{
+    position: absolute;
+    top: 50px;
+    left: 710px;
+    font-size: 130px;
+}
+
+.nowkaa{
+    position: absolute;
+    top: 60px;
+    left: 980px;
+    font-size: 130px;
+}
+
+.sonnoak{
+    position: absolute;
+    top: 190px;
+    left: 75px;
+    font-size: 130px;
+}
+
+.sonnodui{
+    position: absolute;
+    top: 190px;
+    left: 200px;
+    font-size: 130px;
+}
+
+.sonnotin{
+    position: absolute;
+    top: 190px;
+    left: 325px;
+    font-size: 130px;
+}
+
+.sonnochar{
+    position: absolute;
+    top: 190px;
+    left: 460px;
+    font-size: 130px;
+}
+
+.sonnopach{
+    position: absolute;
+    top: 190px;
+    left: 590px;
+    font-size: 130px;
+}
+
+.sonnochoy{
+    position: absolute;
+    top: 190px;
+    left: 720px;
+    font-size: 130px;
+}
+
+.sonnosat{
+    position: absolute;
+    top: 190px;
+    left: 850px;
+    font-size: 130px;
+}
+
+.sonnoatt{
+    position: absolute;
+    top: 190px;
+    left: 975px;
+    font-size: 130px;
+}
+
+.ghoraaa{
+    position: absolute;
+    bottom:45px;
+    left:195px;
+    font-size: 130px;
+}
+
+.nowkaaa{
+    position: absolute;
+    bottom:45px;
+    left:77px;
+    font-size: 130px;
+}
+
+.hatiii{
+    position: absolute;
+    bottom: 60px;
+    left:335px;
+    font-size: 130px;
+}
+
+.ministerr{
+    position: absolute;
+    bottom: 45px;
+    left:460px;
+    font-size: 130px;
+}
+
+.kingg{
+    position: absolute;
+    bottom: 45px;
+    left:590px;
+    font-size: 130px;
+}
+
+.hatiiii{
+    position: absolute;
+    bottom: 60px;
+    left:715px;
+    font-size: 130px;
+}
+
+.ghoraaaa{
+    position: absolute;
+    bottom: 45px;
+    left:845px;
+    font-size: 130px;
+}
+
+.nowkaaaa{
+    position: absolute;
+    bottom: 45px;
+    left:975px;
+    font-size: 130px;
+}
+
+.sonnoakk{
+    position: absolute;
+    bottom: 175px;
+    left: 75px;
+    font-size: 130px;
+}
+
+.sonnoduii{
+    position: absolute;
+    bottom: 175px;
+    left: 200px;
+    font-size: 130px;
+}
+
+.sonnotinn{
+    position: absolute;
+    bottom: 175px;
+    left: 325px;
+    font-size: 130px;
+}
+
+.sonnocharr{
+    position: absolute;
+    bottom: 175px;
+    left: 460px;
+    font-size: 130px;
+}
+
+.sonnopachh{
+    position: absolute;
+    bottom: 175px;
+    left: 590px;
+    font-size: 130px;
+}
+
+.sonnochoyy{
+    position: absolute;
+    bottom: 175px;
+    left: 720px;
+    font-size: 130px;
+}
+
+.sonnosatt{
+    position: absolute;
+    bottom: 175px;
+    left: 850px;
+    font-size: 130px;
+}
+
+.sonnoattt{
+    position: absolute;
+    bottom: 175px;
+    left: 975px;
+    font-size: 130px;
+}
+
+.chess{
+    position: absolute;
+    left: 520px;
+    font-size: 20px;
+    color: white;
+}
